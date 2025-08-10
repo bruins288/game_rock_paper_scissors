@@ -411,6 +411,29 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "RockPaperScissorsApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "RockPaperScissorslib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RockPaperScissorsApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RockPaperScissorsApp.dll": {}
+        }
+      },
+      "RockPaperScissorslib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/RockPaperScissorslib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RockPaperScissorslib.dll": {}
+        }
       }
     }
   },
@@ -932,11 +955,23 @@
         "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "RockPaperScissorsApp/1.0.0": {
+      "type": "project",
+      "path": "../RockPaperScissorsApp/RockPaperScissorsApp.csproj",
+      "msbuildProject": "../RockPaperScissorsApp/RockPaperScissorsApp.csproj"
+    },
+    "RockPaperScissorslib/1.0.0": {
+      "type": "project",
+      "path": "../RockPaperScissorslib/RockPaperScissorslib.csproj",
+      "msbuildProject": "../RockPaperScissorslib/RockPaperScissorslib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.NET.Test.Sdk >= 17.12.0",
+      "RockPaperScissorsApp >= 1.0.0",
+      "RockPaperScissorslib >= 1.0.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
       "xunit.runner.visualstudio >= 2.8.2"
@@ -974,7 +1009,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\RockPaperScissorsApp.csproj": {
+              "projectPath": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\RockPaperScissorsApp.csproj"
+            },
+            "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj": {
+              "projectPath": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
