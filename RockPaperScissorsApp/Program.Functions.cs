@@ -29,7 +29,7 @@ public partial class Program
             if (countPlayers == 1)
             {
                 player1.Choice = Game.GetComputerChoice();
-                Console.WriteLine($"{player1.Name} сделал ход.");
+                Console.WriteLine($"{player1.Name} сделал ход.\n");
             }
             else
             {
@@ -45,7 +45,7 @@ public partial class Program
     }
     private static RockPaperScissorsEnum GetUserMotion(Player player)
     {
-        Console.WriteLine($"Ход {player.Name}:\nКамень - 1\nБумага - 2\nНожницы - 3");
+        Console.WriteLine($"\nХод {player.Name}:\nКамень - 1\nБумага - 2\nНожницы - 3");
         var input = Console.ReadLine();
         if (Enum.TryParse(typeof(RockPaperScissorsEnum), input, out var result))
         {
