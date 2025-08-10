@@ -1,0 +1,12 @@
+d:\projects\CS\game_rock_paper_scissors\RockPaperScissorslib\bin\Debug\net9.0\RockPaperScissorslib.deps.json
+d:\projects\CS\game_rock_paper_scissors\RockPaperScissorslib\bin\Debug\net9.0\RockPaperScissorslib.dll
+d:\projects\CS\game_rock_paper_scissors\RockPaperScissorslib\bin\Debug\net9.0\RockPaperScissorslib.pdb
+d:\projects\CS\game_rock_paper_scissors\RockPaperScissorslib\obj\Debug\net9.0\RockPaperScissorslib.GeneratedMSBuildEditorConfig.editorconfig
+d:\projects\CS\game_rock_paper_scissors\RockPaperScissorslib\obj\Debug\net9.0\RockPaperScissorslib.AssemblyInfoInputs.cache
+d:\projects\CS\game_rock_paper_scissors\RockPaperScissorslib\obj\Debug\net9.0\RockPaperScissorslib.AssemblyInfo.cs
+d:\projects\CS\game_rock_paper_scissors\RockPaperScissorslib\obj\Debug\net9.0\RockPaperScissorslib.csproj.CoreCompileInputs.cache
+d:\projects\CS\game_rock_paper_scissors\RockPaperScissorslib\obj\Debug\net9.0\RockPaperScissorslib.sourcelink.json
+d:\projects\CS\game_rock_paper_scissors\RockPaperScissorslib\obj\Debug\net9.0\RockPaperScissorslib.dll
+d:\projects\CS\game_rock_paper_scissors\RockPaperScissorslib\obj\Debug\net9.0\refint\RockPaperScissorslib.dll
+d:\projects\CS\game_rock_paper_scissors\RockPaperScissorslib\obj\Debug\net9.0\RockPaperScissorslib.pdb
+d:\projects\CS\game_rock_paper_scissors\RockPaperScissorslib\obj\Debug\net9.0\ref\RockPaperScissorslib.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RockPaperScissorsApp/1.0.0": {
+        "dependencies": {
+          "RockPaperScissorslib": "1.0.0"
+        },
+        "runtime": {
+          "RockPaperScissorsApp.dll": {}
+        }
+      },
+      "RockPaperScissorslib/1.0.0": {
+        "runtime": {
+          "RockPaperScissorslib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RockPaperScissorsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RockPaperScissorslib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
