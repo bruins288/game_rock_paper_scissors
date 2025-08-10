@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsTest\\RockPaperScissorsTest.csproj": {}
+    "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsTest\\RockPaperScissorsTest.csproj": {}
   },
   "projects": {
-    "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\RockPaperScissorsApp.csproj": {
+    "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\RockPaperScissorsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\RockPaperScissorsApp.csproj",
+        "projectUniqueName": "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\RockPaperScissorsApp.csproj",
         "projectName": "RockPaperScissorsApp",
-        "projectPath": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\RockPaperScissorsApp.csproj",
+        "projectPath": "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\RockPaperScissorsApp.csproj",
         "packagesPath": "C:\\Users\\bruin\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\obj\\",
+        "outputPath": "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj": {
-                "projectPath": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj"
+              "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj": {
+                "projectPath": "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj": {
+    "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj",
+        "projectUniqueName": "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj",
         "projectName": "RockPaperScissorslib",
-        "projectPath": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj",
+        "projectPath": "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj",
         "packagesPath": "C:\\Users\\bruin\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\obj\\",
+        "outputPath": "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -140,14 +140,14 @@
         }
       }
     },
-    "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsTest\\RockPaperScissorsTest.csproj": {
+    "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsTest\\RockPaperScissorsTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsTest\\RockPaperScissorsTest.csproj",
+        "projectUniqueName": "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsTest\\RockPaperScissorsTest.csproj",
         "projectName": "RockPaperScissorsTest",
-        "projectPath": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsTest\\RockPaperScissorsTest.csproj",
+        "projectPath": "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsTest\\RockPaperScissorsTest.csproj",
         "packagesPath": "C:\\Users\\bruin\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsTest\\obj\\",
+        "outputPath": "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -169,11 +169,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\RockPaperScissorsApp.csproj": {
-                "projectPath": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\RockPaperScissorsApp.csproj"
+              "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\RockPaperScissorsApp.csproj": {
+                "projectPath": "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsApp\\RockPaperScissorsApp.csproj"
               },
-              "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj": {
-                "projectPath": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj"
+              "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj": {
+                "projectPath": "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorslib\\RockPaperScissorslib.csproj"
               }
             }
           }

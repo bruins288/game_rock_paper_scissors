@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+YC3nUZ+ndk=",
+  "dgSpecHash": "WVs4co0iPPQ=",
   "success": true,
-  "projectFilePath": "D:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsTest\\RockPaperScissorsTest.csproj",
+  "projectFilePath": "d:\\projects\\CS\\game_rock_paper_scissors\\RockPaperScissorsTest\\RockPaperScissorsTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruin\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\bruin\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

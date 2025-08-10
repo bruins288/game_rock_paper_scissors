@@ -9,7 +9,7 @@ public class Player(bool isComputer, string name = "Компьютер")
 {
     public string Name { get; set; } = name;
     public bool IsComputer { get; private set; } = isComputer;
-    internal int CountWins { get;  set; } = 0;
+    public int CountWins { get; internal set; } = 0;
     public RockPaperScissorsEnum Choice { get; set; }
 
     public string DisplayStatus()

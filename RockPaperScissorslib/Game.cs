@@ -12,9 +12,7 @@ public static class Game
     public static int CountRounds
     {
         set
-        {
-            ArgumentOutOfRangeException.ThrowIfLessThanOrEqual(value, 0);
-            ArgumentOutOfRangeException.ThrowIfGreaterThan(value, 10);
+        {          
             _countRounds = value;
         }
         get => _countRounds;
